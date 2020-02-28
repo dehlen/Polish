@@ -1,6 +1,8 @@
 # Polish
 <img src="https://img.shields.io/badge/supports-Swift%20Package%20Manager-green.svg">
 <img src="./docs/badge.svg">
+<img src="https://img.shields.io/badge/Swift-5-orange">
+<img src="https://img.shields.io/badge/Platforms-iOS-lightgrey">
 
 This packages provides multiple Swift classes and extensions to make working with UIKit on iOS easier. This includes convenience API for AutoLayout and Child ViewControllers as well as commonly used presentation animations or UI components. 
 
