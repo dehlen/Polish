@@ -477,472 +477,1382 @@
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/ContainerCollectionViewCell.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/BadgeBarButtonItem.swift",
+      "line": 7,
+      "symbol": "BadgeBarButtonItem.badgeLabel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/BadgeBarButtonItem.swift",
+      "line": 32,
+      "symbol": "BadgeBarButtonItem.badgeButton",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/BadgeBarButtonItem.swift",
+      "line": 34,
+      "symbol": "BadgeBarButtonItem.badgeText",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/BadgeBarButtonItem.swift",
+      "line": 42,
+      "symbol": "BadgeBarButtonItem.badgeBackgroundColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/BadgeBarButtonItem.swift",
+      "line": 46,
+      "symbol": "BadgeBarButtonItem.badgeFontColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/BadgeBarButtonItem.swift",
+      "line": 50,
+      "symbol": "BadgeBarButtonItem.badgeFontSize",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/BadgeBarButtonItem.swift",
+      "line": 61,
+      "symbol": "BadgeBarButtonItem.init(button:badgeText:target:action:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/BadgeBarButtonItem.swift",
+      "line": 102,
+      "symbol": "BadgeBarButtonItem.init(image:badgeText:target:action:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/BadgeBarButtonItem.swift",
+      "line": 111,
+      "symbol": "BadgeBarButtonItem.init(title:badgeText:target:action:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/BadgeBarButtonItem.swift",
+      "line": 120,
+      "symbol": "BadgeBarButtonItem.init(image:badgeText:target:action:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/ContainerCollectionViewCell.swift",
       "line": 3,
       "symbol": "ContainerCollectionViewCell",
       "symbol_kind": "source.lang.swift.decl.class",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/ContainerCollectionViewCell.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/ContainerCollectionViewCell.swift",
       "line": 4,
       "symbol": "ContainerCollectionViewCell.view",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/ContainerCollectionViewCell.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/ContainerCollectionViewCell.swift",
       "line": 8,
       "symbol": "ContainerCollectionViewCell.init(frame:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Forms.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/Forms.swift",
       "line": 3,
       "symbol": "Section",
       "symbol_kind": "source.lang.swift.decl.class",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Forms.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/Forms.swift",
       "line": 18,
       "symbol": "FormCell",
       "symbol_kind": "source.lang.swift.decl.class",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Forms.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/Forms.swift",
       "line": 23,
       "symbol": "FormViewController",
       "symbol_kind": "source.lang.swift.decl.class",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Forms.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/Forms.swift",
       "line": 68,
       "symbol": "FormViewController.viewDidLoad()",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Forms.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/Forms.swift",
       "line": 72,
       "symbol": "FormViewController.viewDidAppear(_:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Forms.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/Forms.swift",
       "line": 77,
       "symbol": "FormViewController.numberOfSections(in:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Forms.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/Forms.swift",
       "line": 81,
       "symbol": "FormViewController.tableView(_:numberOfRowsInSection:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Forms.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/Forms.swift",
       "line": 91,
       "symbol": "FormViewController.tableView(_:cellForRowAt:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Forms.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/Forms.swift",
       "line": 95,
       "symbol": "FormViewController.tableView(_:shouldHighlightRowAt:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Forms.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/Forms.swift",
       "line": 99,
       "symbol": "FormViewController.tableView(_:titleForFooterInSection:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Forms.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/Forms.swift",
       "line": 103,
       "symbol": "FormViewController.tableView(_:didSelectRowAt:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Forms.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/Forms.swift",
       "line": 109,
       "symbol": "FormDriver",
       "symbol_kind": "source.lang.swift.decl.class",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Forms.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/Forms.swift",
       "line": 135,
       "symbol": "TargetAction",
       "symbol_kind": "source.lang.swift.decl.class",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Forms.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/Forms.swift",
       "line": 145,
       "symbol": "RenderedElement",
       "symbol_kind": "source.lang.swift.decl.struct",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Forms.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/Forms.swift",
       "line": 151,
       "symbol": "RenderingContext",
       "symbol_kind": "source.lang.swift.decl.struct",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Forms.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/Forms.swift",
       "line": 158,
       "symbol": "uiSwitch(keyPath:)",
       "symbol_kind": "source.lang.swift.decl.function.free",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Forms.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/Forms.swift",
       "line": 172,
       "symbol": "textField(keyPath:)",
       "symbol_kind": "source.lang.swift.decl.function.free",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Forms.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/Forms.swift",
       "line": 192,
       "symbol": "controlCell(title:control:leftAligned:)",
       "symbol_kind": "source.lang.swift.decl.function.free",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Forms.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/Forms.swift",
       "line": 210,
       "symbol": "detailTextCell(title:keyPath:form:)",
       "symbol_kind": "source.lang.swift.decl.function.free",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Forms.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/Forms.swift",
       "line": 229,
       "symbol": "bind(form:to:)",
       "symbol_kind": "source.lang.swift.decl.function.free",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Forms.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/Forms.swift",
       "line": 243,
       "symbol": "section(_:footer:isVisible:)",
       "symbol_kind": "source.lang.swift.decl.function.free",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Forms.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/Forms.swift",
       "line": 264,
       "symbol": "sections(_:)",
       "symbol_kind": "source.lang.swift.decl.function.free",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Forms.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/Forms.swift",
       "line": 277,
       "symbol": "nestedTextField(title:keyPath:)",
       "symbol_kind": "source.lang.swift.decl.function.free",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Forms.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/Forms.swift",
       "line": 284,
       "symbol": "Element",
       "symbol_kind": "source.lang.swift.decl.typealias",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Forms.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/Forms.swift",
       "line": 285,
       "symbol": "Form",
       "symbol_kind": "source.lang.swift.decl.typealias",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Forms.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/Forms.swift",
       "line": 287,
       "symbol": "optionCell(title:option:keyPath:)",
       "symbol_kind": "source.lang.swift.decl.function.free",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/HairlineView.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/GradientView.swift",
+      "line": 7,
+      "symbol": "GradientView.firstColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/GradientView.swift",
+      "line": 11,
+      "symbol": "GradientView.secondColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/GradientView.swift",
+      "line": 15,
+      "symbol": "GradientView.isVertical",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/GradientView.swift",
+      "line": 19,
+      "symbol": "GradientView.layerClass",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/HairlineView.swift",
       "line": 3,
       "symbol": "HairlineView",
       "symbol_kind": "source.lang.swift.decl.class",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/HairlineView.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/HairlineView.swift",
       "line": 4,
       "symbol": "HairlineView.hairlineConstraint",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/HairlineView.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/HairlineView.swift",
       "line": 6,
       "symbol": "HairlineView.awakeFromNib()",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/KeyboardObserver.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/IntrinsicHeightDataView.swift",
+      "line": 6,
+      "symbol": "IntrinsicHeightTableView.contentSize",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/IntrinsicHeightDataView.swift",
+      "line": 10,
+      "symbol": "IntrinsicHeightTableView.intrinsicContentSize",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/KeyboardObserver.swift",
       "line": 3,
       "symbol": "KeyboardObserver",
       "symbol_kind": "source.lang.swift.decl.class",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/KeyboardObserver.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/KeyboardObserver.swift",
       "line": 10,
       "symbol": "KeyboardObserver.shouldTapCancelTouches",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/KeyboardObserver.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/KeyboardObserver.swift",
       "line": 20,
       "symbol": "KeyboardObserver.init(window:shouldTapCancelTouches:ignoredViews:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/KeyboardObserver.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/KeyboardObserver.swift",
       "line": 71,
       "symbol": "KeyboardObserver",
       "symbol_kind": "source.lang.swift.decl.extension",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/KeyboardObserver.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/KeyboardObserver.swift",
       "line": 73,
       "symbol": "KeyboardObserver.gestureRecognizer(_:shouldReceive:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layout.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/MailComposer.swift",
+      "line": 4,
+      "symbol": "MailComposerType",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/MailComposer.swift",
+      "line": 5,
+      "symbol": "MailComposerType.AttachmentType",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/MailComposer.swift",
+      "line": 7,
+      "symbol": "MailComposerType.canSendMail()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/MailComposer.swift",
+      "line": 8,
+      "symbol": "MailComposerType.makeViewController(email:subject:body:isHTML:attachment:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/MailComposer.swift",
+      "line": 9,
+      "symbol": "MailComposerType.makeViewController(emails:subject:body:isHTML:attachment:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/MailComposer.swift",
+      "line": 12,
+      "symbol": "MailComposerType",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/MailComposer.swift",
+      "line": 14,
+      "symbol": "MailComposerType.makeViewController(email:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/MailComposer.swift",
+      "line": 18,
+      "symbol": "MailComposerType.makeViewController(email:subject:body:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/MailComposer.swift",
+      "line": 23,
+      "symbol": "MailComposerDelegate",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/MailComposer.swift",
+      "line": 24,
+      "symbol": "MailComposerDelegate.mailComposer(didFinishWith:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/MailComposer.swift",
+      "line": 27,
+      "symbol": "MailComposer",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/MailComposer.swift",
+      "line": 31,
+      "symbol": "MailComposer.init(delegate:styleNavigationBar:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/MailComposer.swift",
+      "line": 45,
+      "symbol": "MailComposer",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/MailComposer.swift",
+      "line": 84,
+      "symbol": "MailComposer",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/MailComposer.swift",
+      "line": 86,
+      "symbol": "MailComposer.mailComposeController(_:didFinishWith:error:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/PhotoPicker.swift",
+      "line": 5,
+      "symbol": "PhotoPickerType",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/PhotoPicker.swift",
+      "line": 6,
+      "symbol": "PhotoPickerType.makeViewController(cameraTitle:photosTitle:cancelTitle:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/PhotoPicker.swift",
+      "line": 9,
+      "symbol": "PhotoPickerDelegate",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/PhotoPicker.swift",
+      "line": 10,
+      "symbol": "PhotoPickerDelegate.photoPicker(didFinishPicking:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/PhotoPicker.swift",
+      "line": 11,
+      "symbol": "PhotoPickerDelegate.photoPickerDidFailPermission()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/PhotoPicker.swift",
+      "line": 14,
+      "symbol": "PhotoPicker",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/PhotoPicker.swift",
+      "line": 18,
+      "symbol": "PhotoPicker.init(delegate:allowsEditing:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/PhotoPicker.swift",
+      "line": 24,
+      "symbol": "PhotoPicker",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/PhotoPicker.swift",
+      "line": 26,
+      "symbol": "PhotoPicker.makeViewController(cameraTitle:photosTitle:cancelTitle:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/PhotoPicker.swift",
+      "line": 60,
+      "symbol": "PhotoPicker",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/PhotoPicker.swift",
+      "line": 62,
+      "symbol": "PhotoPicker.imagePickerController(_:didFinishPickingMediaWithInfo:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/PhotoPicker.swift",
+      "line": 72,
+      "symbol": "PhotoPicker.imagePickerControllerDidCancel(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/PlaceholderTextView.swift",
+      "line": 8,
+      "symbol": "PlaceholderTextView.placeholder",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/PlaceholderTextView.swift",
+      "line": 12,
+      "symbol": "PlaceholderTextView.placeholderColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/PlaceholderTextView.swift",
+      "line": 16,
+      "symbol": "PlaceholderTextView.placeholderFont",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/PlaceholderTextView.swift",
+      "line": 20,
+      "symbol": "PlaceholderTextView.textPaddingTop",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/PlaceholderTextView.swift",
+      "line": 21,
+      "symbol": "PlaceholderTextView.textPaddingBottom",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/PlaceholderTextView.swift",
+      "line": 22,
+      "symbol": "PlaceholderTextView.textPaddingLeft",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/PlaceholderTextView.swift",
+      "line": 23,
+      "symbol": "PlaceholderTextView.textPaddingRight",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/PlaceholderTextView.swift",
+      "line": 35,
+      "symbol": "PlaceholderTextView.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/PlaceholderTextView.swift",
+      "line": 75,
+      "symbol": "PlaceholderTextView.text",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/PlaceholderTextView.swift",
+      "line": 86,
+      "symbol": "PlaceholderTextView.textDidBeginEditing(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/PlaceholderTextView.swift",
+      "line": 91,
+      "symbol": "PlaceholderTextView.textDidChange(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/PlaceholderTextView.swift",
+      "line": 96,
+      "symbol": "PlaceholderTextView.textDidEndEditing(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/PlaceholderTextView.swift",
+      "line": 101,
+      "symbol": "PlaceholderTextView.placeholderDidChange(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/Protocols/CellIdentifiable.swift",
+      "line": 46,
+      "symbol": "CellIdentifiable.CellIdentifier",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/Protocols/CellIdentifiable.swift",
+      "line": 62,
+      "symbol": "RawRepresentable.init(from:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/Protocols/ReusableView.swift",
+      "line": 3,
+      "symbol": "ReusableView",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/Protocols/ReusableView.swift",
+      "line": 4,
+      "symbol": "ReusableView.reuseIdentifier",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/Protocols/ReusableView.swift",
+      "line": 7,
+      "symbol": "ReusableView",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/Protocols/ReusableView.swift",
+      "line": 8,
+      "symbol": "ReusableView.reuseIdentifier",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/Protocols/Scrollable.swift",
+      "line": 1,
+      "symbol": "Scrollable",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/Protocols/Scrollable.swift",
+      "line": 2,
+      "symbol": "Scrollable.scrollToTop(animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/Protocols/Scrollable.swift",
+      "line": 3,
+      "symbol": "Scrollable.scrollToBottom(animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/Protocols/Scrollable.swift",
+      "line": 5,
+      "symbol": "Scrollable",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/Protocols/Scrollable.swift",
+      "line": 85,
+      "symbol": "Scrollable",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/Protocols/StatusBarable.swift",
+      "line": 32,
+      "symbol": "StatusBarable.application",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/Protocols/StatusBarable.swift",
+      "line": 33,
+      "symbol": "StatusBarable.statusBar",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/RoundedViews.swift",
+      "line": 6,
+      "symbol": "RoundedView.layoutSubviews()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/RoundedViews.swift",
+      "line": 15,
+      "symbol": "RoundedButton.layoutSubviews()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/RoundedViews.swift",
+      "line": 24,
+      "symbol": "RoundedImageView.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/RoundedViews.swift",
+      "line": 30,
+      "symbol": "RoundedImageView.layoutSubviews()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/UILabelView.swift",
+      "line": 6,
+      "symbol": "UILabelView.init(dataDetectorTypes:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/UILabelView.swift",
+      "line": 12,
+      "symbol": "UILabelView.init(frame:textContainer:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/UILabelView.swift",
+      "line": 18,
+      "symbol": "UILabelView.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/XIBView.swift",
+      "line": 6,
+      "symbol": "XIBView.init(frame:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Controls/XIBView.swift",
+      "line": 11,
+      "symbol": "XIBView.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Extensions/Style.swift",
+      "line": 8,
+      "symbol": "<>(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Extensions/Style.swift",
+      "line": 15,
+      "symbol": "accessibleStyle(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Extensions/Style.swift",
+      "line": 20,
+      "symbol": "roundedRectStyle(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Extensions/Style.swift",
+      "line": 25,
+      "symbol": "autolayoutStyle(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Extensions/Style.swift",
+      "line": 30,
+      "symbol": "fontStyle(ofSize:weight:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Extensions/Style.swift",
+      "line": 37,
+      "symbol": "preferredFontStyle(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Extensions/Style.swift",
+      "line": 44,
+      "symbol": "textColorStyle(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Extensions/Style.swift",
+      "line": 50,
+      "symbol": "multiLineStyle()",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Extensions/Style.swift",
+      "line": 56,
+      "symbol": "multiLineStyle(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Extensions/Style.swift",
+      "line": 62,
+      "symbol": "centerStyle",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Extensions/Style.swift",
+      "line": 67,
+      "symbol": "baseButtonStyle",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Extensions/Style.swift",
+      "line": 72,
+      "symbol": "roundedButtonStyle",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Extensions/Style.swift",
+      "line": 77,
+      "symbol": "baseImageViewStyle",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Extensions/Style.swift",
+      "line": 82,
+      "symbol": "baseTextFieldStyle",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Extensions/UIAlertAction.swift",
+      "line": 5,
+      "symbol": "UIAlertAction.init(title:handler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Extensions/UICollectionView.swift",
+      "line": 4,
+      "symbol": "UICollectionView.defaultCellIdentifier",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Extensions/UICollectionView.swift",
+      "line": 25,
+      "symbol": "UICollectionView.defaultSectionIdentifier",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Extensions/UITableView.swift",
+      "line": 4,
+      "symbol": "UITableView.defaultCellIdentifier",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Extensions/UITableView.swift",
+      "line": 25,
+      "symbol": "UITableView.defaultHeaderFooterIdentifier",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Extensions/UITableViewCell.swift",
+      "line": 18,
+      "symbol": "UITableViewCellDefault",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Extensions/UITableViewCell.swift",
+      "line": 19,
+      "symbol": "UITableViewCellDefault.init(style:reuseIdentifier:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Extensions/UITableViewCell.swift",
+      "line": 23,
+      "symbol": "UITableViewCellDefault.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Extensions/UITableViewCell.swift",
+      "line": 26,
+      "symbol": "UITableViewCellValue1",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Extensions/UITableViewCell.swift",
+      "line": 27,
+      "symbol": "UITableViewCellValue1.init(style:reuseIdentifier:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Extensions/UITableViewCell.swift",
+      "line": 31,
+      "symbol": "UITableViewCellValue1.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Extensions/UITableViewCell.swift",
+      "line": 34,
+      "symbol": "UITableViewCellValue2",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Extensions/UITableViewCell.swift",
+      "line": 35,
+      "symbol": "UITableViewCellValue2.init(style:reuseIdentifier:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Extensions/UITableViewCell.swift",
+      "line": 39,
+      "symbol": "UITableViewCellValue2.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Extensions/UITableViewCell.swift",
+      "line": 42,
+      "symbol": "UITableViewCellSubtitle",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Extensions/UITableViewCell.swift",
+      "line": 43,
+      "symbol": "UITableViewCellSubtitle.init(style:reuseIdentifier:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Extensions/UITableViewCell.swift",
+      "line": 47,
+      "symbol": "UITableViewCellSubtitle.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Extensions/UIView+AutoLayout.swift",
+      "line": 3,
+      "symbol": "Constraint",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Extensions/UIView+AutoLayout.swift",
+      "line": 5,
+      "symbol": "equal(_:constant:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Extensions/UIView+AutoLayout.swift",
+      "line": 9,
+      "symbol": "equal(_:_:constant:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Extensions/UIView+AutoLayout.swift",
+      "line": 15,
+      "symbol": "equal(_:constant:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Extensions/UIView+AutoLayout.swift",
+      "line": 22,
+      "symbol": "UIView.addSubview(_:constraints:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Extensions/UIView+AutoLayout.swift",
+      "line": 28,
+      "symbol": "UIView.embedIn(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Extensions/UIView+AutoLayout.swift",
+      "line": 35,
+      "symbol": "UIView.centerIn(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Extensions/UIView+AutoLayout.swift",
+      "line": 41,
+      "symbol": "UIView.constrainSize(size:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Extensions/UIView.swift",
+      "line": 226,
+      "symbol": "UIView.embedSubview(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Extensions/UIView.swift",
+      "line": 248,
+      "symbol": "UIView.isContainedWithin(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Extensions/UIViewController.swift",
+      "line": 167,
+      "symbol": "UIViewController.embedChild(_:in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Extensions/UIWindow.swift",
+      "line": 4,
+      "symbol": "UIWindow.init(rootViewController:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layouts/ColumnsCollectionViewFlowLayout.swift",
+      "line": 20,
+      "symbol": "ColumnsCollectionViewFlowLayout.prepare()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layouts/ColumnsCollectionViewFlowLayout.swift",
+      "line": 58,
+      "symbol": "ColumnsCollectionViewFlowLayout.shouldInvalidateLayout(forBoundsChange:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layouts/Layout.swift",
       "line": 4,
       "symbol": "UIView.setSubviews(_:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layout.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layouts/Layout.swift",
       "line": 17,
       "symbol": "UILabel.init(text:size:multiline:textColor:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layout.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layouts/Layout.swift",
       "line": 30,
       "symbol": "UIView.init(backgroundColor:cornerRadius:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layout.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layouts/Layout.swift",
       "line": 38,
       "symbol": "Width",
       "symbol_kind": "source.lang.swift.decl.enum",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layout.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layouts/Layout.swift",
       "line": 39,
       "symbol": "Width.absolute(_:)",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layout.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layouts/Layout.swift",
       "line": 40,
       "symbol": "Width.flexible(min:)",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layout.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layouts/Layout.swift",
       "line": 41,
       "symbol": "Width.basedOnContents",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layout.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layouts/Layout.swift",
       "line": 60,
       "symbol": "Layout",
       "symbol_kind": "source.lang.swift.decl.enum",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layout.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layouts/Layout.swift",
       "line": 61,
       "symbol": "Layout.view(_:_:)",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layout.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layouts/Layout.swift",
       "line": 62,
       "symbol": "Layout.space(_:_:)",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layout.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layouts/Layout.swift",
       "line": 63,
       "symbol": "Layout.box(contents:_:wrapper:_:)",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layout.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layouts/Layout.swift",
       "line": 64,
       "symbol": "Layout.newline(space:_:)",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layout.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layouts/Layout.swift",
       "line": 65,
       "symbol": "Layout.choice(_:_:)",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layout.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layouts/Layout.swift",
       "line": 66,
       "symbol": "Layout.empty",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layout.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layouts/Layout.swift",
       "line": 69,
       "symbol": "Layout",
       "symbol_kind": "source.lang.swift.decl.extension",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layout.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layouts/Layout.swift",
       "line": 70,
       "symbol": "Layout.apply(containerWidth:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layout.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layouts/Layout.swift",
       "line": 77,
       "symbol": "Array.apply(containerWidth:startAt:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layout.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layouts/Layout.swift",
       "line": 123,
       "symbol": "Line",
       "symbol_kind": "source.lang.swift.decl.struct",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layout.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layouts/Layout.swift",
       "line": 182,
       "symbol": "Layout",
       "symbol_kind": "source.lang.swift.decl.extension",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layout.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layouts/Layout.swift",
       "line": 183,
       "symbol": "Layout.computeLines(containerWidth:currentX:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layout.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layouts/Layout.swift",
       "line": 234,
       "symbol": "LayoutContainer",
       "symbol_kind": "source.lang.swift.decl.class",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layout.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layouts/Layout.swift",
       "line": 247,
       "symbol": "LayoutContainer.layoutSubviews()",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layout.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layouts/Layout.swift",
       "line": 254,
       "symbol": "BidirectionalCollection.horizontal(space:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layout.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layouts/Layout.swift",
       "line": 265,
       "symbol": "BidirectionalCollection.vertical(space:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layout.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layouts/Layout.swift",
       "line": 292,
       "symbol": "UIView.layout",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layout.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layouts/Layout.swift",
       "line": 297,
       "symbol": "Layout",
       "symbol_kind": "source.lang.swift.decl.extension",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layout.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layouts/Layout.swift",
       "line": 298,
       "symbol": "Layout.or(_:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layout.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layouts/Layout.swift",
       "line": 302,
       "symbol": "Layout.box(wrapper:width:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layout.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layouts/Layout.swift",
       "line": 307,
       "symbol": "Layout",
       "symbol_kind": "source.lang.swift.decl.extension",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layout.swift",
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layouts/Layout.swift",
       "line": 308,
       "symbol": "Layout.centered",
       "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layouts/ScrollViewWithKeyboard.swift",
+      "line": 3,
+      "symbol": "ScrollViewWithKeyboard",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layouts/ScrollViewWithKeyboard.swift",
+      "line": 5,
+      "symbol": "ScrollViewWithKeyboard.activeField",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layouts/ScrollViewWithKeyboard.swift",
+      "line": 7,
+      "symbol": "ScrollViewWithKeyboard.didMoveToWindow()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layouts/ScrollViewWithKeyboard.swift",
+      "line": 16,
+      "symbol": "ScrollViewWithKeyboard.willMove(toWindow:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layouts/ScrollViewWithKeyboard.swift",
+      "line": 24,
+      "symbol": "ScrollViewWithKeyboard.touchesBegan(_:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layouts/ScrollViewWithKeyboard.swift",
+      "line": 30,
+      "symbol": "ScrollViewWithKeyboard",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Layouts/ScrollViewWithKeyboard.swift",
+      "line": 49,
+      "symbol": "ScrollViewWithKeyboard.scrollToActiveField()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
@@ -1044,34 +1954,6 @@
       "warning": "undocumented"
     },
     {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/ReusableView.swift",
-      "line": 3,
-      "symbol": "ReusableView",
-      "symbol_kind": "source.lang.swift.decl.protocol",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/ReusableView.swift",
-      "line": 4,
-      "symbol": "ReusableView.reuseIdentifier",
-      "symbol_kind": "source.lang.swift.decl.var.static",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/ReusableView.swift",
-      "line": 7,
-      "symbol": "ReusableView",
-      "symbol_kind": "source.lang.swift.decl.extension",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/ReusableView.swift",
-      "line": 8,
-      "symbol": "ReusableView.reuseIdentifier",
-      "symbol_kind": "source.lang.swift.decl.var.static",
-      "warning": "undocumented"
-    },
-    {
       "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Snackbar/SnackBar.swift",
       "line": 3,
       "symbol": "Snackbar",
@@ -1090,272 +1972,6 @@
       "line": 75,
       "symbol": "SnackbarView.spaceBetweenElements",
       "symbol_kind": "source.lang.swift.decl.var.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Style.swift",
-      "line": 8,
-      "symbol": "<>(_:_:)",
-      "symbol_kind": "source.lang.swift.decl.function.free",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Style.swift",
-      "line": 15,
-      "symbol": "accessibleStyle(_:)",
-      "symbol_kind": "source.lang.swift.decl.function.free",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Style.swift",
-      "line": 20,
-      "symbol": "roundedRectStyle(_:)",
-      "symbol_kind": "source.lang.swift.decl.function.free",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Style.swift",
-      "line": 25,
-      "symbol": "autolayoutStyle(_:)",
-      "symbol_kind": "source.lang.swift.decl.function.free",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Style.swift",
-      "line": 30,
-      "symbol": "fontStyle(ofSize:weight:)",
-      "symbol_kind": "source.lang.swift.decl.function.free",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Style.swift",
-      "line": 37,
-      "symbol": "preferredFontStyle(_:)",
-      "symbol_kind": "source.lang.swift.decl.function.free",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Style.swift",
-      "line": 44,
-      "symbol": "textColorStyle(_:)",
-      "symbol_kind": "source.lang.swift.decl.function.free",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Style.swift",
-      "line": 50,
-      "symbol": "multiLineStyle()",
-      "symbol_kind": "source.lang.swift.decl.function.free",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Style.swift",
-      "line": 56,
-      "symbol": "multiLineStyle(_:)",
-      "symbol_kind": "source.lang.swift.decl.function.free",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Style.swift",
-      "line": 62,
-      "symbol": "centerStyle",
-      "symbol_kind": "source.lang.swift.decl.var.global",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Style.swift",
-      "line": 67,
-      "symbol": "baseButtonStyle",
-      "symbol_kind": "source.lang.swift.decl.var.global",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Style.swift",
-      "line": 72,
-      "symbol": "roundedButtonStyle",
-      "symbol_kind": "source.lang.swift.decl.var.global",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Style.swift",
-      "line": 77,
-      "symbol": "baseImageViewStyle",
-      "symbol_kind": "source.lang.swift.decl.var.global",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/Style.swift",
-      "line": 82,
-      "symbol": "baseTextFieldStyle",
-      "symbol_kind": "source.lang.swift.decl.var.global",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/UITableViewCell.swift",
-      "line": 3,
-      "symbol": "UITableViewCellDefault",
-      "symbol_kind": "source.lang.swift.decl.class",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/UITableViewCell.swift",
-      "line": 4,
-      "symbol": "UITableViewCellDefault.init(style:reuseIdentifier:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/UITableViewCell.swift",
-      "line": 8,
-      "symbol": "UITableViewCellDefault.init(coder:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/UITableViewCell.swift",
-      "line": 11,
-      "symbol": "UITableViewCellValue1",
-      "symbol_kind": "source.lang.swift.decl.class",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/UITableViewCell.swift",
-      "line": 12,
-      "symbol": "UITableViewCellValue1.init(style:reuseIdentifier:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/UITableViewCell.swift",
-      "line": 16,
-      "symbol": "UITableViewCellValue1.init(coder:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/UITableViewCell.swift",
-      "line": 19,
-      "symbol": "UITableViewCellValue2",
-      "symbol_kind": "source.lang.swift.decl.class",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/UITableViewCell.swift",
-      "line": 20,
-      "symbol": "UITableViewCellValue2.init(style:reuseIdentifier:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/UITableViewCell.swift",
-      "line": 24,
-      "symbol": "UITableViewCellValue2.init(coder:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/UITableViewCell.swift",
-      "line": 27,
-      "symbol": "UITableViewCellSubtitle",
-      "symbol_kind": "source.lang.swift.decl.class",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/UITableViewCell.swift",
-      "line": 28,
-      "symbol": "UITableViewCellSubtitle.init(style:reuseIdentifier:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/UITableViewCell.swift",
-      "line": 32,
-      "symbol": "UITableViewCellSubtitle.init(coder:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/UIView+AutoLayout.swift",
-      "line": 3,
-      "symbol": "Constraint",
-      "symbol_kind": "source.lang.swift.decl.typealias",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/UIView+AutoLayout.swift",
-      "line": 5,
-      "symbol": "equal(_:constant:)",
-      "symbol_kind": "source.lang.swift.decl.function.free",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/UIView+AutoLayout.swift",
-      "line": 9,
-      "symbol": "equal(_:_:constant:)",
-      "symbol_kind": "source.lang.swift.decl.function.free",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/UIView+AutoLayout.swift",
-      "line": 15,
-      "symbol": "equal(_:constant:)",
-      "symbol_kind": "source.lang.swift.decl.function.free",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/UIView+AutoLayout.swift",
-      "line": 22,
-      "symbol": "UIView.addSubview(_:constraints:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/UIView+AutoLayout.swift",
-      "line": 28,
-      "symbol": "UIView.embedIn(_:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/UIView+AutoLayout.swift",
-      "line": 35,
-      "symbol": "UIView.centerIn(_:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/UIView+AutoLayout.swift",
-      "line": 41,
-      "symbol": "UIView.constrainSize(size:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/UIView.swift",
-      "line": 4,
-      "symbol": "UIView.embedSubview(_:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/UIView.swift",
-      "line": 26,
-      "symbol": "UIView.isContainedWithin(_:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/UIViewController.swift",
-      "line": 4,
-      "symbol": "UIViewController.embedChild(_:in:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/d0283356/Downloads/Libraries/Polish/Sources/Polish/UIWindow.swift",
-      "line": 4,
-      "symbol": "UIWindow.init(rootViewController:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     }
   ],
