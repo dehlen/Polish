@@ -101,8 +101,8 @@ open class SnackbarView: UIView {
         super.layoutSubviews()
 
         // Layout the seperator, want it next to the button and centered vertically
-        let seperatorHeight = frame.height * seperatorHeightPercent
-        let seperatorY = (frame.height - seperatorHeight) / 2
+        let seperatorHeight = frame.size.height * seperatorHeightPercent
+        let seperatorY = (frame.size.height - seperatorHeight) / 2
         seperator.frame = CGRect(x: button.frame.minX - seperatorWidth - seperatorPadding, y: seperatorY,
                                  width: seperatorWidth, height: seperatorHeight)
     }

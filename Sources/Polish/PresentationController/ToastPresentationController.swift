@@ -11,7 +11,7 @@ public class ToastPresentationController: PresentationController {
         let safeAreaFrame = containerView.bounds
             .inset(by: containerView.safeAreaInsets)
         
-        let targetWidth = safeAreaFrame.width - 2 * inset
+        let targetWidth = safeAreaFrame.size.width - 2 * inset
         let fittingSize = CGSize(
             width: targetWidth,
             height: UIView.layoutFittingCompressedSize.height

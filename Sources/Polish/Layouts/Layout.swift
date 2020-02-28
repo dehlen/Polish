@@ -245,7 +245,7 @@ public final class LayoutContainer: UIView {
     }
     
     override public func layoutSubviews() {
-        let views = _layout.apply(containerWidth: bounds.width)
+        let views = _layout.apply(containerWidth: bounds.size.width)
         setSubviews(views)
     }
 }

@@ -5,7 +5,7 @@ fileprivate func makeDefaultLayout() -> UICollectionViewFlowLayout {
     let margin = CGFloat(16)
 
     l.scrollDirection = .vertical
-    l.estimatedItemSize = CGSize(width: UIScreen.main.bounds.width, height: 100)
+    l.estimatedItemSize = CGSize(width: UIScreen.main.bounds.size.width, height: 100)
     l.minimumLineSpacing = 4
     l.sectionInset = UIEdgeInsets(top: margin, left: 0, bottom: 0, right: 0)
 

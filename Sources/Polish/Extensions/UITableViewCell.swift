@@ -1,4 +1,19 @@
 import UIKit
+import Core
+
+public extension UITableViewCell {
+    /// The color of the cell when it is selected.
+    @objc dynamic var selectionColor: UIColor? {
+        get { selectedBackgroundView?.backgroundColor }
+        
+        set {
+            guard selectionStyle != .none else { return }
+            selectedBackgroundView = with(UIView()) {
+                $0.backgroundColor = newValue
+            }
+        }
+    }
+}
 
 public class UITableViewCellDefault: UITableViewCell {
     override public init(style: UITableViewCell.CellStyle, reuseIdentifier: String?) {
@@ -31,3 +46,4 @@ public class UITableViewCellSubtitle: UITableViewCell {
     
     required public init?(coder aDecoder: NSCoder) { super.init(coder: aDecoder) }
 }
+

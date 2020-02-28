@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Core",
+        "repositoryURL": "https://github.com/dehlen/Core.git",
+        "state": {
+          "branch": "master",
+          "revision": "b5ea8aea4a3d04e98d82adf932711e67af919e87",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}

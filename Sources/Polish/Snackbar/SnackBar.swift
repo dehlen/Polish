@@ -171,8 +171,8 @@ open class Snackbar: Equatable {
         }
 
         // Set frame for view
-        let width: CGFloat = superview.bounds.width * widthPercent
-        let startX: CGFloat = (superview.bounds.width - width) / 2.0
+        let width: CGFloat = superview.bounds.size.width * widthPercent
+        let startX: CGFloat = (superview.bounds.size.width - width) / 2.0
 
         let startY: CGFloat
 
@@ -196,7 +196,7 @@ open class Snackbar: Equatable {
         }
 
         if let snack = snackView {
-            startY = snack.frame.maxY - snack.frame.height - height - stackedBottomSpacing
+            startY = snack.frame.maxY - snack.frame.size.height - height - stackedBottomSpacing
         } else {
             startY = superview.bounds.maxY - height - bottomSpacing - safeAreaInset
         }
@@ -221,12 +221,12 @@ open class Snackbar: Equatable {
         // Set up view outside the frame, then animate it back in
         view.isHidden = false
         view.layer.opacity = 0.0
-        view.frame = CGRect(x: frame.origin.x, y: outY, width: frame.width, height: frame.height)
+        view.frame = CGRect(x: frame.origin.x, y: outY, width: frame.size.width, height: frame.size.height)
 
         UIView.animate(withDuration: animationDuration, animations: {
             // Animate the view to the correct position & opacity
             self.view.layer.opacity = self.view.defaultOpacity
-            self.view.frame = CGRect(x: frame.origin.x, y: inY, width: frame.width, height: frame.height)
+            self.view.frame = CGRect(x: frame.origin.x, y: inY, width: frame.size.width, height: frame.size.height)
         })
         wasAnimated = true
     }
@@ -326,13 +326,13 @@ open class Snackbar: Equatable {
     @objc private func handleSwipes(sender: UISwipeGestureRecognizer) {
         switch sender.direction {
         case .left:
-            let position = CGPoint(x: view.frame.origin.x - view.frame.width, y: view.frame.origin.y)
+            let position = CGPoint(x: view.frame.origin.x - view.frame.size.width, y: view.frame.origin.y)
             animateSwipeOut(to: position)
         case .right:
-            let position = CGPoint(x: view.frame.origin.x + view.frame.width, y: view.frame.origin.y)
+            let position = CGPoint(x: view.frame.origin.x + view.frame.size.width, y: view.frame.origin.y)
             animateSwipeOut(to: position)
         case .down:
-            let position = CGPoint(x: view.frame.origin.x, y: view.frame.origin.y + view.frame.height + bottomSpacing)
+            let position = CGPoint(x: view.frame.origin.x, y: view.frame.origin.y + view.frame.size.height + bottomSpacing)
             animateSwipeOut(to: position)
         case .up: fallthrough
         default: break

@@ -4,7 +4,7 @@ public class CardPresentationController: PresentationController {
     override public var frameOfPresentedViewInContainerView: CGRect {
         guard let containerView = containerView else { return .zero }
         return containerView.bounds
-            .inset(by: UIEdgeInsets(top: containerView.bounds.height - 400, left: 16, bottom: 16, right: 16))
+            .inset(by: UIEdgeInsets(top: containerView.bounds.size.height - 400, left: 16, bottom: 16, right: 16))
             .inset(by: containerView.safeAreaInsets)
     }
     
